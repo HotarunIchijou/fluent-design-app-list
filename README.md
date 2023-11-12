@@ -70,7 +70,7 @@
   - `FDM` <img src="https://i.ibb.co/1dPtX8z/github.png" alt="github" width="22" height="22" /> [FluentHub](https://github.com/FluentHub/FluentHub) <sup>`FOSS`</sup>
   - `FDM` <img src="https://i.ibb.co/Jtqtpj7/instagram.png" alt="instagram" width="22" height="22" /> [Indirect](https://github.com/huynhsontung/Indirect) <sup>`FOSS`</sup>
   - `FDM` <img src="https://i.ibb.co/dJw2BzJ/reddit.png" alt="reddit" width="22" height="22" /> [Carpeddit](https://github.com/itsWindows11/Carpeddit) <sup>`FOSS`</sup>
-  - `FDM` <img src="https://i.ibb.co/N6Qrqgj/youtube.png" alt="youtube" height="22" width="22" /> [ATube - YT App](https://apps.microsoft.com/store/detail/atube-yt-app/9NBLGGH69MG4)
+  - `FDM` <img src="https://i.ibb.co/N6Qrqgj/youtube.png" alt="youtube" height="22" width="22" /> [ATube - YT App](https://apps.microsoft.com/store/detail/atube-yt-app/9NBLGGH69MG4) `💰`
   - `FD` <img src="https://i.ibb.co/dLRRMg7/whatsapp.png" alt="whatsapp" height="22" width="22" /> [WhatsApp](https://apps.microsoft.com/detail/whatsapp/9NKSQGP7F2NH)
   - <img src="https://i.ibb.co/XxGp7CC/discord.png" alt="discord" width="22" height="22" /> Discord
     - `FDM` [Quarrel](https://github.com/UWPCommunity/Quarrel) <sup>`FOSS`</sup> <sup>`Not Released`</sup>
