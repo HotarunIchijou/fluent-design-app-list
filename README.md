@@ -92,7 +92,6 @@
 
 ## ✏️ Text/Code Editors/Office apps 
 - ### 🖋️ Text Editors
-  - `FDM` [Notepads](https://github.com/0x7c13/Notepads) <sup>`FOSS`</sup>
   - `FDM` [SkyNotepad](https://github.com/lnxwizard/SkyNotepad) <sup>`FOSS`</sup>
   - `FDM` [Text space](https://apps.microsoft.com/store/detail/text-space/9N6CPGZGXSVT)
   - `FDM` [Storylines](https://apps.microsoft.com/store/detail/storylines/9PN77P9WJ3CX)
