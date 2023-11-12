@@ -158,6 +158,7 @@
   - `FD` [Spotify](https://spicetify.app/) <sup>`📎Needs One Of This Additional Setups:` [`Fluent`](https://github.com/williamckha/spicetify-fluent) [`Bloom`](https://github.com/nimsandu/spicetify-bloom)</sup>
 
 - ### 📺 TV Streaming
+  - `FDM` [Bili.Uwp](https://github.com/Richasy/Bili.Uwp) <sup>`FOSS`</sup>
   - `FDM` [Apple TV Preview](https://apps.microsoft.com/store/detail/apple-tv-preview/9NM4T8B9JQZ1)
 
 - ### 📄 Pdf viewer
