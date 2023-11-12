@@ -238,6 +238,7 @@
 - ### 🛍️ App Stores
    - `FDM` [WingetUI](https://github.com/marticliment/WingetUI) <sup>`FOSS`</sup>
    - `FDM` [GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp) <sup>`FOSS`</sup>
+   - `FDM` [CoolAPK UWP](https://github.com/Coolapk-UWP/Coolapk-UWP) <sup>`FOSS`</sup>
    - `FDM` [Microsoft Store](https://www.microsoft.com/en-us/download/details.aspx?id=54768)
 
 - ### 🔎 Search
