@@ -92,7 +92,6 @@
 
 ## ✏️ Text/Code Editors/Office apps 
 - ### 🖋️ Text Editors
-  - `FDM` [SkyNotepad](https://github.com/lnxwizard/SkyNotepad) <sup>`FOSS`</sup>
   - `FDM` [Text space](https://apps.microsoft.com/store/detail/text-space/9N6CPGZGXSVT)
   - `FDM` [Storylines](https://apps.microsoft.com/store/detail/storylines/9PN77P9WJ3CX)
   - `FDM` [Typedown](https://apps.microsoft.com/store/detail/typedown/9P8TCW4H2HB4)
@@ -100,6 +99,7 @@
   - `FDM` [TowPad](https://github.com/itsWindows11/TowPad) <sup>`FOSS`</sup> <sup>`Not Released`</sup> 
   - `FDM` [RectifyPad](https://github.com/Lixkote/RectifyPad) <sup>`FOSS`</sup> <sup>`Not Released`</sup>
   - `FDM` [FerrPad](https://github.com/shef3r/ferrpad) <sup>`FOSS`</sup>
+  - `FD` [SkyNotepad](https://github.com/lnxwizard/SkyNotepad) <sup>`FOSS`</sup>
   
 - ### 📝 Code Editors
   - `FDM` [WinUIEdit](https://github.com/BreeceW/WinUIEdit) <sup>`FOSS`</sup>
