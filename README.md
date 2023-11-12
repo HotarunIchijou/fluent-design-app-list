@@ -174,6 +174,7 @@
 
 - ### 🛠️ Tools
   - `FDM` [PhotoToys](https://github.com/GetGet99/PhotoToys) <sup>`FOSS`</sup>
+  - `FDM` [Ambie](https://github.com/jenius-apps/ambie) <sup>`FOSS`</sup>
   - `FDM` [Tagger](https://github.com/NickvisionApps/Tagger) <sup>`FOSS`</sup>
   - `FDM` [Simple Icon File Maker](https://github.com/TheJoeFin/Simple-Icon-File-Maker) <sup>`FOSS`</sup>
   - `FDM` [Microsoft Clipchamp](https://www.microsoft.com/store/productid/9P1J8S7CCWWT?ocid=pdpshare)
