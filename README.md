@@ -27,6 +27,7 @@
   - [📀 Multimedia Players](#-multimedia-players)
   - [🎧 Music Players](#-music-players)
   - [🖼️ Gallery](#%EF%B8%8F-gallery)
+  - [🏯 Anime/Manga](#-animemanga)
   - [🎵 Music Streaming](#-music-streaming)
   - [📺 TV Streaming](#-tv-streaming)
   - [📄 Pdf viewer](#-pdf-viewer)
@@ -146,13 +147,19 @@
   - `FDM` [Strix Music](https://github.com/Arlodotexe/strix-music) <sup>`FOSS`</sup>
   - `FDM` [Stylophone](https://github.com/Difegue/Stylophone) <sup>`FOSS`</sup>
   - `FDM` [Meloisk](https://apps.microsoft.com/store/detail/melosik-music-player-for-windows/9NH759PMH26M)
-  
+
 - ### 🖼️ Gallery
   - `FDM` [Image Viewer](https://github.com/dragonofmercy/image-viewer) <sup>`FOSS`</sup>
   - `FDM` [Microsoft Photos](https://www.microsoft.com/store/productid/9WZDNCRFJBH4?ocid=pdpshare)
   - `FDM` [Sakura Photo Viewer](https://apps.microsoft.com/store/detail/sakura-photo-viewer/9PG9N9FTR590?hl=en-us&gl=us)
   - `FDM` [Visum Photo Viewer](https://apps.microsoft.com/store/detail/visum-photo-viewer/9N1X3Z50BLM8)
-   
+
+- ### 🏯 Anime/Manga
+  - `FDM` [Totoro](https://github.com/insomniachi/Totoro) <sup>`FOSS`</sup>
+  - `FDM` [AniMoe](https://github.com/CosmicPredator/AniMoe) <sup>`FOSS`</sup> <sup>`Not Released`</sup>
+  - `FDM` [Rulia - Manga Reader](https://github.com/RuliaReader/Rulia) <sup>`FOSS`</sup>
+  - `FD` [TsubameViewer](https://github.com/tor4kichi/TsubameViewer) <sup>`FOSS`</sup>
+
 - ### 🎵 Music Streaming
   - `FDM` [Apple Music Preview](https://apps.microsoft.com/store/detail/apple-music-preview/9PFHDD62MXS1)
   - `FD` [Spotify](https://spicetify.app/) <sup>`📎Needs One Of This Additional Setups:` [`Fluent`](https://github.com/williamckha/spicetify-fluent) [`Bloom`](https://github.com/nimsandu/spicetify-bloom)</sup>
