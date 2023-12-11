@@ -216,6 +216,7 @@
   - `FDM` [Registry Valley](https://github.com/0x5bfa/RegistryValley) <sup>`FOSS`</sup> <sup>`Not Released`</sup>
   - `FDM` [Run by FireCube](https://apps.microsoft.com/store/detail/run-by-firecube-not-by-microsoft/9NQGV64S5136)
   - `FDM` [File Hasher UWP](https://apps.microsoft.com/store/detail/file-hasher-uwp/9NJ5TN3XJP25)
+  - `FDM` [JitHub](https://github.com/JitHubApp/JitHubV2) <sup>`FOSS`</sup> <sup>`💰`</sup>
   - `FDM` [IPDetective - Advanced IP Scanner](https://apps.microsoft.com/store/detail/ipdetective-advanced-ip-scanner/9P5BGL0C8VBS) <sup>`💰`</sup>
   - `FD` [ModernRun](https://apps.microsoft.com/store/detail/modernrun/9NRMMT926PNX)
   - `FD` [RunManager](https://apps.microsoft.com/store/detail/runmanager/9NGP5GKCCF3S)
