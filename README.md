@@ -50,8 +50,8 @@
 
 | Abbreviation | Meaning | Design | Mica effect |
 |:-:|-|:-:|:-:|
-|**`FD`**|Apps that doesn't have Mica effect or have something simmilar.|✅|🚫|
-|**`FDM`**|Apps that fully follows WinUI3 philosophy.|✅|✅|
+|**`FD`**|Apps that follows WinUI3 philosophy but doesn't have Mica effect|✅|🚫|
+|**`FDM`**|Apps that fully follows WinUI3 philosophy|✅|✅|
 
 ## Other abbreviations
   
