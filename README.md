@@ -27,7 +27,7 @@
   - [📀 Multimedia Players](#-multimedia-players)
   - [🎧 Music Players](#-music-players)
   - [🖼️ Gallery](#%EF%B8%8F-gallery)
-  - [🏯 Anime/Manga](#-animemanga)
+  - [⛩️ Anime/Manga](#-animemanga)
   - [🎵 Music Streaming](#-music-streaming)
   - [📺 TV Streaming](#-tv-streaming)
   - [📄 Pdf viewer](#-pdf-viewer)
@@ -152,7 +152,7 @@
   - `FDM` [Sakura Photo Viewer](https://apps.microsoft.com/store/detail/sakura-photo-viewer/9PG9N9FTR590?hl=en-us&gl=us)
   - `FDM` [Visum Photo Viewer](https://apps.microsoft.com/store/detail/visum-photo-viewer/9N1X3Z50BLM8)
 
-- ### 🏯 Anime/Manga
+- ### ⛩️ Anime/Manga
   - `FDM` [Totoro](https://github.com/insomniachi/Totoro) <sup>`FOSS`</sup>
   - `FDM` [AniMoe](https://github.com/CosmicPredator/AniMoe) <sup>`FOSS`</sup> <sup>`Not Released`</sup>
   - `FDM` [Rulia - Manga Reader](https://github.com/RuliaReader/Rulia) <sup>`FOSS`</sup>
