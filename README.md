@@ -260,6 +260,7 @@
   - `FDM` [Fluent Screen Recorder](https://github.com/MarcAnt01/Fluent-Screen-Recorder) <sup>`FOSS`</sup>
   - `FDM` [Snipping Tool](https://www.microsoft.com/store/productid/9MZ95KL8MR0L?ocid=pdpshare)
   - `FDM` [Windows Calculator](https://github.com/microsoft/calculator) <sup>`FOSS`</sup>
+  - `FDM` [WinToys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
   - `FDM` [FileFracture - Split and Join Files](https://apps.microsoft.com/store/detail/filefracture-split-and-join-files/9MVGQJN90QP6)
   - `FDM` [Latency Tester](https://apps.microsoft.com/store/detail/latency-tester/9P7NKPXPR5FN)
   - `FDM` [Scanner - Quick and Easy Document Scanning](https://apps.microsoft.com/store/detail/scanner-quick-and-easy-document-scanning/9N438MZHD3ZF)
