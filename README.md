@@ -255,6 +255,7 @@
 - ### 🛠️ Other Utilities
   - `FDM` [Fast Copy](https://github.com/HO-COOH/FastCopy) <sup>`FOSS`</sup>
   - `FDM` [Text-Grab](https://github.com/TheJoeFin/Text-Grab) <sup>`FOSS`</sup>
+  - `FDM` [Fluent Screen Recorder](https://github.com/MarcAnt01/Fluent-Screen-Recorder) <sup>`FOSS`</sup>
   - `FDM` [Snipping Tool](https://www.microsoft.com/store/productid/9MZ95KL8MR0L?ocid=pdpshare)
   - `FDM` [Windows Calculator](https://github.com/microsoft/calculator) <sup>`FOSS`</sup>
   - `FDM` [FileFracture - Split and Join Files](https://apps.microsoft.com/store/detail/filefracture-split-and-join-files/9MVGQJN90QP6)
