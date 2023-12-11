@@ -27,7 +27,7 @@
   - [📀 Multimedia Players](#-multimedia-players)
   - [🎧 Music Players](#-music-players)
   - [🖼️ Gallery](#%EF%B8%8F-gallery)
-  - [⛩️ Anime/Manga](%EF%B8%8F-animemanga)
+  - [⛩️ Anime/Manga](#%EF%B8%8F-animemanga)
   - [🎵 Music Streaming](#-music-streaming)
   - [📺 TV Streaming](#-tv-streaming)
   - [📄 Pdf viewer](#-pdf-viewer)
