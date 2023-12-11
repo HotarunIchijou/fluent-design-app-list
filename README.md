@@ -68,7 +68,6 @@
 - ### 👥 Social media/Messaging
   - `FDM` <img src="https://i.ibb.co/FhHBYj5/telegram.png" alt="telegram" width="22" height="22" /> [Unigram](https://github.com/UnigramDev/Unigram) <sup>`FOSS`</sup>
   - `FDM` <img src="https://i.ibb.co/wgTfFvc/vk.png" alt="vk" width="22" height="22" /> [Laney](https://www.microsoft.com/store/productid/9MSPLCXVN1M5?ocid=pdpshare)
-  - `FDM` <img src="https://i.ibb.co/1dPtX8z/github.png" alt="github" width="22" height="22" /> [FluentHub](https://github.com/FluentHub/FluentHub) <sup>`FOSS`</sup>
   - `FDM` <img src="https://i.ibb.co/Jtqtpj7/instagram.png" alt="instagram" width="22" height="22" /> [Indirect](https://github.com/huynhsontung/Indirect) <sup>`FOSS`</sup>
   - `FDM` <img src="https://i.ibb.co/dJw2BzJ/reddit.png" alt="reddit" width="22" height="22" /> [Carpeddit](https://github.com/itsWindows11/Carpeddit) <sup>`FOSS`</sup>
   - `FDM` <img src="https://i.ibb.co/N6Qrqgj/youtube.png" alt="youtube" height="22" width="22" /> [ATube - YT App](https://apps.microsoft.com/store/detail/atube-yt-app/9NBLGGH69MG4) `💰`
@@ -209,6 +208,7 @@
 
 ## 🔧 Utilites
 - ### 🧰 Developer Tools
+  - `FDM` [FluentHub](https://github.com/FluentHub/FluentHub) <sup>`FOSS`</sup>
   - `FDM` [DevToys](https://github.com/veler/DevToys) <sup>`FOSS`</sup>
   - `FDM` [PowerToys](https://github.com/microsoft/PowerToys) <sup>`FOSS`</sup>
   - `FDM` [WinUI Gallery](https://github.com/microsoft/WinUI-Gallery) <sup>`FOSS`</sup>
