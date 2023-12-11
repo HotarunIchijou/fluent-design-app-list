@@ -230,6 +230,7 @@
      
 - ### 💻 System/Hardware Info
   - `FDM` [Modern Winver](https://github.com/torchgm/NewModernWinver) <sup>`FOSS`</sup>
+  - `FDM` [Winver UWP](https://github.com/dongle-the-gadget/WinverUWP) <sup>`FOSS`</sup>
   - `FDM` [Disk Info](https://github.com/MicaApps/DiskInfo) <sup>`FOSS`</sup>
   - `FDM` [Radiograph](https://apps.microsoft.com/store/detail/radiograph/9NH1P86H06CG)
   - `FD` [Specs Analysis (Beta)](https://apps.microsoft.com/store/detail/specs-analysis-beta/9WZDNCRDGX54)
