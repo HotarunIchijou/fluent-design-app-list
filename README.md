@@ -5,7 +5,7 @@
 **Windows Fluent Design** is Microsoft's design language that represents the latest evolution in user interface design. It focuses on personalization, adaptability, and responsiveness, harnessing technology to open up new design possibilities. Fluent Design encompasses enhancements in typography, color usage, iconography, and various other design elements, with the goal of delivering a modern and user-centric design experience in Windows applications and interfaces.
 
 <p align="center">
-  <img src="https://fluent2websitecdn.azureedge.net/cdn/get-started-design.dc57051b_W7cpx.webp" alt="FluentDesign"
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/46f07c163493153.646f78f46a7ea.jpg" alt="FluentDesign"
 </p>
 
 ---
