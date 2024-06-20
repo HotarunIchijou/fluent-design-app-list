@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.slow.pics/T7o2WYO7.png" alt="win11" width="25" height="25" /> Fluent Design App List  <img src="https://i.slow.pics/T7o2WYO7.png" alt="win11" width="25" height="25">
+  <img src="https://i.slow.pics/T7o2WYO7.png" alt="win11" width="28" height="28" /> Fluent Design App List  <img src="https://i.slow.pics/T7o2WYO7.png" alt="win11" width="28" height="28">
 </h1>
 
 **Windows Fluent Design** is Microsoft's design language that represents the latest evolution in user interface design. It focuses on personalization, adaptability, and responsiveness, harnessing technology to open up new design possibilities. Fluent Design encompasses enhancements in typography, color usage, iconography, and various other design elements, with the goal of delivering a modern and user-centric design experience in Windows applications and interfaces.
