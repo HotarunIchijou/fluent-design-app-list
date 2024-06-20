@@ -73,16 +73,22 @@
 
 ## 📱 Clients
 - ### 👥 Social media/Messaging
-  - `FDM` <img src="https://i.ibb.co/FhHBYj5/telegram.png" alt="telegram" width="22" height="22" /> [Unigram](https://github.com/UnigramDev/Unigram) <sup>`FOSS`</sup> <sup>`⭐`</sup>
-  - `FDM` <img src="https://i.ibb.co/wgTfFvc/vk.png" alt="vk" width="22" height="22" /> [Laney](https://www.microsoft.com/store/productid/9MSPLCXVN1M5?ocid=pdpshare) <sup>`⭐`</sup>
-  - `FDM` <img src="https://i.ibb.co/Jtqtpj7/instagram.png" alt="instagram" width="22" height="22" /> [Indirect](https://github.com/huynhsontung/Indirect) <sup>`FOSS`</sup>
-  - `FDM` <img src="https://i.ibb.co/dJw2BzJ/reddit.png" alt="reddit" width="22" height="22" /> [Carpeddit](https://github.com/itsWindows11/Carpeddit) <sup>`FOSS`</sup>
-  - `FDM` <img src="https://i.ibb.co/N6Qrqgj/youtube.png" alt="youtube" height="22" width="22" /> [ATube - YT App](https://apps.microsoft.com/store/detail/atube-yt-app/9NBLGGH69MG4) <sup>`💰`</sup> <sup>`☠️`</sup>
-  - `FD` <img src="https://i.ibb.co/dLRRMg7/whatsapp.png" alt="whatsapp" height="22" width="22" /> [WhatsApp](https://apps.microsoft.com/detail/whatsapp/9NKSQGP7F2NH) <sup>`⭐`</sup>
-  - <img src="https://i.ibb.co/XxGp7CC/discord.png" alt="discord" width="22" height="22" /> Discord
+  - `FDM` <img src="https://i.ibb.co/FhHBYj5/telegram.png" alt="telegram" width="24" height="24" /> [Unigram](https://github.com/UnigramDev/Unigram) <sup>`FOSS`</sup> <sup>`⭐`</sup>
+  - `FDM` <img src="https://i.ibb.co/wgTfFvc/vk.png" alt="vk" width="24" height="24" /> [Laney](https://www.microsoft.com/store/productid/9MSPLCXVN1M5?ocid=pdpshare) <sup>`⭐`</sup>
+  - `FDM` <img src="https://i.ibb.co/Jtqtpj7/instagram.png" alt="instagram" width="24" height="24" /> [Indirect](https://github.com/huynhsontung/Indirect) <sup>`FOSS`</sup>  
+  - `FDM` <img src="https://i.ibb.co/31qgGDb/icons8-mastodon-1.png" alt="mastodon" height="24" width="24" /> [Bluechirp](https://github.com/AnalogFeelings/Bluechirp) <sup>`FOSS`</sup> <sup>`Not Released`</sup>
+  - `FDM` <img src="https://i.ibb.co/P5fvqF2/icons8-twitter-512.png" alt="x" height="24" width="24" /> [Bluesky](https://bsky.app/profile/firecube.bsky.social) <sup>`Not Released`</sup>
+  - `FDM` <img src="https://i.ibb.co/N6Qrqgj/youtube.png" alt="youtube" height="24" width="24" /> [ATube - YT App](https://apps.microsoft.com/store/detail/atube-yt-app/9NBLGGH69MG4) <sup>`💰`</sup> <sup>`☠️`</sup>
+  - `FD` <img src="https://i.ibb.co/dLRRMg7/whatsapp.png" alt="whatsapp" height="24" width="24" /> [WhatsApp](https://apps.microsoft.com/detail/whatsapp/9NKSQGP7F2NH) <sup>`⭐`</sup>
+  - ### <img src="https://i.ibb.co/XxGp7CC/discord.png" alt="discord" width="24" height="24" /> Discord
     - `FDM` [Quarrel](https://github.com/UWPCommunity/Quarrel) <sup>`FOSS`</sup> <sup>`Not Released`</sup>
     - `FDM` [Mica Discord](https://github.com/GetGet99/Mica-Discord) <sup>`FOSS`</sup>
+    - `FDM` [Discord-11](https://github.com/zuzumi-f/Discord-11) <sup>`FOSS`</sup>
     - `FD` [BetterDiscord](https://betterdiscord.app/) <sup>[`📎Needs Additional Setup`](https://betterdiscord.app/theme/Discord%2011)</sup>
+  - ### <img src="https://i.ibb.co/dJw2BzJ/reddit.png" alt="reddit" width="24" height="24" /> Reddit
+    - `FDM` [Carpeddit](https://github.com/itsWindows11/Carpeddit) <sup>`FOSS`</sup> <sup>`☠️`</sup>
+    - `FD` [FluentReddit](https://github.com/tobyisawesome/fluentreddit) <sup>`FOSS`</sup>
+  
   - #### Other Social media/Messaging clients
     - `FDM` [UWPX](https://github.com/UWPX/UWPX-Client) <sup>`FOSS`</sup> <sup>`☠️`</sup>
 
@@ -297,6 +303,7 @@
    
 - ### 🛍️ App Stores
    - `FDM` [Microsoft Store](https://www.microsoft.com/en-us/download/details.aspx?id=54768) <sup>`⭐`</sup>
+   - `FDM` [Fluent Store](https://github.com/yoshiask/FluentStore) <sup>`FOSS`</sup>
    - `FDM` [WingetUI](https://github.com/marticliment/WingetUI) <sup>`FOSS`</sup>
    - `FDM` [GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp) <sup>`FOSS`</sup>
    - `FDM` [CoolAPK UWP](https://github.com/Coolapk-UWP/Coolapk-UWP) <sup>`FOSS`</sup>
