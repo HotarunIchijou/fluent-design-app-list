@@ -95,6 +95,8 @@
   - `FDM` [ByteStream Torrent](https://apps.microsoft.com/store/detail/bytestream-torrent/9PJT9PBVG7K8)
   - `FDM` [YouTorrent](https://apps.microsoft.com/store/detail/youtorrent/9P2QMBVQRCFN)
 
+<sub>[📃 Table of contents](#-table-of-contents)</sub>
+
 
 ## ✏️ Text/Code Editors/Office apps 
 - ### 🖋️ Text Editors
@@ -124,6 +126,8 @@
   - `FDM` [Microsoft Access](https://www.microsoft.com/en-us/microsoft-365/access) <sup>`💰`</sup>
   - `FDM` [Microsoft Publisher](https://www.microsoft.com/en-us/microsoft-365/publisher) <sup>`💰`</sup>
 
+<sub>[📃 Table of contents](#-table-of-contents)</sub>
+
 ## 📒 Notes/To-Do/Drawboards
 - ### 📝 Notes
   - `FDM` [HiNote](https://apps.microsoft.com/store/detail/hinote/9N94LT5S8FD9)
@@ -138,9 +142,13 @@
 - ### ⬜ Drawboards
   - `FDM` [FlowBoard](https://apps.microsoft.com/store/detail/flowboard-firecubes-edition/9PB20HCH5XN2)
 
+<sub>[📃 Table of contents](#-table-of-contents)</sub>
+
 ## 📁 File Managers
 - `FDM` [Files Community](https://github.com/files-community/Files) <sup>`FOSS`</sup>
 - `FD` [RX-Explorer](https://github.com/zhuxb711/RX-Explorer) <sup>`FOSS`</sup>
+
+<sub>[📃 Table of contents](#-table-of-contents)</sub>
 
 ## 🌎 Browsers
 - `FDM` [Microsoft Edge](https://www.microsoft.com//edge/download) <sup>`⭐`</sup>
@@ -153,6 +161,8 @@
 - `FDM` [FireBrowser](https://github.com/FirebrowserDevs/FireBrowser-Uwp) <sup>`FOSS`</sup> <sup>`☠️`</sup>
 - `FDM` [Swift Browser](https://github.com/FireCubeStudios/SwiftBrowser) <sup>`FOSS`</sup> <sup>`☠️`</sup>
 - `FDM` [Yttrium](https://github.com/muznyo/Yttrium) <sup>`FOSS`</sup> <sup>`☠️`</sup>
+
+<sub>[📃 Table of contents](#-table-of-contents)</sub>
 
 ## ▶️ Media
 - ### 📀 Multimedia Players
@@ -212,6 +222,8 @@
   - `FDM` [HEIC to JPEG](https://apps.microsoft.com/store/detail/heic-to-jpeg-heicheif-to-jpg-converter/9NTVCMPJM5V3)
   - `FD` [PDF Jack](https://apps.microsoft.com/store/detail/pdf-jack/9NBLGGH1P3P6)
 
+<sub>[📃 Table of contents](#-table-of-contents)</sub>
+
 ## 🔒 Security
 - ### 🛡️ Password managers
   - `FDM` [EasePass](https://github.com/FrozenAssassine/EasePass) <sup>`FOSS`</sup>
@@ -225,6 +237,8 @@
 - ### 🛠️ Tools
   - `FDM` [Password Plus Generator](https://apps.microsoft.com/detail/9p9sspr1mlb9)
   - `FDM` [SecureFolderTS](https://apps.microsoft.com/detail/9nz7czrn7gg8)
+
+<sub>[📃 Table of contents](#-table-of-contents)</sub>
  
 ## 🖌️ Windows Customization
 - `FDM` [Rectify11](https://github.com/Rectify11/Installer) <sup>`FOSS`</sup> <sup>`⭐`</sup>
@@ -240,6 +254,8 @@
 - `FDM` [Twinkle Tray](https://github.com/xanderfrangos/twinkle-tray) <sup>`FOSS`</sup>
 - `FDM` [Bluetooth Battery Level](https://apps.microsoft.com/store/detail/bluetooth-battery-level/9P2RFZSB04G2)
 - `FDM` [Custom Context Menu](https://apps.microsoft.com/store/detail/custom-context-menu/9PC7BZZ28G0X) <sup>`💰`</sup>
+
+<sub>[📃 Table of contents](#-table-of-contents)</sub>
 
 ## 🔧 Utilites
 - ### 🧰 Developer Tools
@@ -275,7 +291,7 @@
   - `FDM` [QRCoder - Easy QR Code Generator](https://apps.microsoft.com/detail/9NGPP9JX361T?ocid=pdpshare&hl=en-us&gl=US) <sup>`💰`</sup>
   - `FDM` [QR Code Generator Pro](https://www.microsoft.com/store/productId/9NBXJXZ6VR72?ocid=pdpshare) <sup>`💰`</sup>
 
- - ### 🧑‍💻 Terminals
+- ### 🧑‍💻 Terminals
    - `FDM` [Windows Terminal](https://github.com/microsoft/terminal) <sup>`FOSS`</sup> <sup>`⭐`</sup>
    - `FD` [Fluent Terminal](https://github.com/felixse/FluentTerminal)  <sup>`FOSS`</sup>
    
@@ -312,3 +328,6 @@
   - `FDM` [DiskBenchmark - Test HardDisk Performance](https://apps.microsoft.com/store/detail/diskbenchmark-test-harddisk-performance/9NJFMWN131GK) <sup>`💰`</sup>
   - `FD` [Ritt](https://apps.microsoft.com/detail/9N020ZXP2Z1G)
   - `FD` [UUP Media Creator](https://apps.microsoft.com/store/detail/uup-media-creator/9N1Z0JXB224X)
+
+<sub>[📃 Table of contents](#-table-of-contents)</sub>
+
