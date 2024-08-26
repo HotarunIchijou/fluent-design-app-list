@@ -78,7 +78,7 @@
   - `FDM` <img src="https://i.ibb.co/Jtqtpj7/instagram.png" alt="instagram" width="24" height="24" /> [Indirect](https://github.com/huynhsontung/Indirect) <sup>`FOSS`</sup>  
   - `FDM` <img src="https://i.ibb.co/31qgGDb/icons8-mastodon-1.png" alt="mastodon" height="24" width="24" /> [Bluechirp](https://github.com/AnalogFeelings/Bluechirp) <sup>`FOSS`</sup> <sup>`Not Released`</sup>
   - `FDM` <img src="https://i.ibb.co/P5fvqF2/icons8-twitter-512.png" alt="x" height="24" width="24" /> [Bluesky](https://bsky.app/profile/firecube.bsky.social) <sup>`Not Released`</sup>
-  - `FDM` <img src="https://i.ibb.co/N6Qrqgj/youtube.png" alt="youtube" height="24" width="24" /> [ATube - YT App] <sup>`☠️`</sup>(https://apps.microsoft.com/store/detail/atube-yt-app/9NBLGGH69MG4) <sup>`💰`</sup> <sup>`☠️`</sup>
+  - `FDM` <img src="https://i.ibb.co/N6Qrqgj/youtube.png" alt="youtube" height="24" width="24" /> [ATube - YT App](https://apps.microsoft.com/store/detail/atube-yt-app/9NBLGGH69MG4) <sup>`💰`</sup> <sup>`☠️`</sup>
   - `FD` <img src="https://i.ibb.co/dLRRMg7/whatsapp.png" alt="whatsapp" height="24" width="24" /> [WhatsApp](https://apps.microsoft.com/detail/whatsapp/9NKSQGP7F2NH) <sup>`⭐`</sup>
   - ### <img src="https://i.ibb.co/XxGp7CC/discord.png" alt="discord" width="24" height="24" /> Discord
     - `FDM` [Quarrel](https://github.com/UWPCommunity/Quarrel) <sup>`FOSS`</sup> <sup>`Not Released`</sup>
