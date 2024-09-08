@@ -35,6 +35,7 @@
   - [📰 News](#-news)
   - [🎙️ Podcasts](#%EF%B8%8F-podcasts)
   - [🛠️ Tools](#%EF%B8%8F-tools)
+- [🎮 Games](#-games)
 - [🔒 Security](#-security)
   - [🛡️ Password managers](#%EF%B8%8F-password-managers)
   - [🔑 2 factor authentification (TOTP)](#-2-factor-authentification-totp)
@@ -229,6 +230,10 @@
 
 <sub>[📃 Table of contents](#-table-of-contents)</sub>
 
+## 🎮 Games
+- `FDM` [Ryujinx](https://github.com/Ryujinx/Ryujinx) <sup>`FOSS`</sup>
+- `FDM` [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) <sup>`FOSS`</sup>
+
 ## 🔒 Security
 - ### 🛡️ Password managers
   - `FDM` [EasePass](https://github.com/FrozenAssassine/EasePass) <sup>`FOSS`</sup>
@@ -278,6 +283,7 @@
   - `FD` [RunManager](https://apps.microsoft.com/store/detail/runmanager/9NGP5GKCCF3S)
 
 - ### 🧹 Optimizers/Cleaners
+  - `FDM` [Universal x86 Tuning Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility/) <sup>`FOSS`</sup>
   - `FDM` [PhotoFiles - Duplicate & Similar Photo Cleaner](https://apps.microsoft.com/store/detail/photofiles-lite-duplicate-photos-cleaner/9PN31DTGG9GM)
   - `FDM` [D.Cleaner - Duplicate Cleaner](https://apps.microsoft.com/store/detail/dcleaner-duplicate-cleaner/9NP1ZPC3THSS)
   - `FDM` [PowerDisk - PC Cleaner](https://apps.microsoft.com/store/detail/powerdisk-pc-cleaner/9PLPNC3D2N2T)
