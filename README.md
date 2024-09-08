@@ -234,6 +234,8 @@
 - `FDM` [Ryujinx](https://github.com/Ryujinx/Ryujinx) <sup>`FOSS`</sup>
 - `FDM` [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) <sup>`FOSS`</sup>
 
+<sub>[📃 Table of contents](#-table-of-contents)</sub>
+
 ## 🔒 Security
 - ### 🛡️ Password managers
   - `FDM` [EasePass](https://github.com/FrozenAssassine/EasePass) <sup>`FOSS`</sup>
