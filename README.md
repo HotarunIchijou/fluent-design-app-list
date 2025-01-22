@@ -159,7 +159,7 @@
 ## 🌎 Browsers
 - `FDM` [Microsoft Edge](https://www.microsoft.com//edge/download) <sup>`⭐`</sup>
 - `FDM` [Google Chrome](https://www.google.com/chrome)
-- `FDM` [Arc Browser](https://arc.net/download) <sup>`FOSS`</sup> <sup>`📎Uses its own implementation of Mica effect`</sup>
+- `FDM` [Arc Browser](https://arc.net/download) <sup>`📎Uses its own implementation of Mica effect`</sup>
 - `FDM` [FireBrowserWinUI](https://apps.microsoft.com/detail/9pcn40xxvcvb) <sup>`FOSS`</sup>
 - `FDM` [Firefox](https://www.mozilla.org/firefox/new/) <sup>`FOSS`</sup> <sup>[`📎Needs Additional Setup`](https://windowsreport.com/firefox-nightly-suppports-the-mica-effect-natively-on-windows-11-and-heres-how-you-can-enable-it/)</sup>
 - `FDM` [Aurora](https://apps.microsoft.com/detail/9mxzldlctfwl)
