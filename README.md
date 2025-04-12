@@ -76,7 +76,7 @@
 - ### 👥 Social media/Messaging
   - `FDM` <img src="https://i.ibb.co/FhHBYj5/telegram.png" alt="telegram" width="24" height="24" /> [Unigram](https://github.com/UnigramDev/Unigram) <sup>`FOSS`</sup> <sup>`⭐`</sup>
   - `FDM` <img src="https://i.ibb.co/wgTfFvc/vk.png" alt="vk" width="24" height="24" /> [Laney](https://www.microsoft.com/store/productid/9MSPLCXVN1M5?ocid=pdpshare) <sup>`⭐`</sup>
-  - `FDM` <img src="https://i.ibb.co/Jtqtpj7/instagram.png" alt="instagram" width="24" height="24" /> [Indirect](https://github.com/huynhsontung/Indirect) <sup>`FOSS`</sup>  
+  - `FDM` <img src="https://i.ibb.co/Jtqtpj7/instagram.png" alt="instagram" width="24" height="24" /> [Indirect](https://github.com/huynhsontung/Indirect) <sup>`FOSS`</sup> <sup>`☠️`</sup> 
   - `FDM` <img src="https://i.ibb.co/31qgGDb/icons8-mastodon-1.png" alt="mastodon" height="24" width="24" /> [Bluechirp](https://github.com/AnalogFeelings/Bluechirp) <sup>`FOSS`</sup> <sup>`Not Released`</sup>
   - `FDM` <img src="https://i.ibb.co/P5fvqF2/icons8-twitter-512.png" alt="x" height="24" width="24" /> [Bluesky](https://bsky.app/profile/firecube.bsky.social) <sup>`Not Released`</sup>
   - `FD` <img src="https://i.ibb.co/dLRRMg7/whatsapp.png" alt="whatsapp" height="24" width="24" /> [WhatsApp](https://apps.microsoft.com/detail/whatsapp/9NKSQGP7F2NH) <sup>`⭐`</sup>
