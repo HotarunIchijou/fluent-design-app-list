@@ -153,6 +153,7 @@
 ## 📁 File Managers
 - `FDM` [Files Community](https://github.com/files-community/Files) <sup>`FOSS`</sup>
 - `FD` [RX-Explorer](https://github.com/zhuxb711/RX-Explorer) <sup>`FOSS`</sup>
+- `FDM` [S Files Pro X - Shrestha File Explorer](https://apps.microsoft.com/detail/9NPNFFSV2HQM)
 
 <sub>[📃 Table of contents](#-table-of-contents)</sub>
 
