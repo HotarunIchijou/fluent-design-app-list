@@ -235,7 +235,7 @@
 <sub>[📃 Table of contents](#-table-of-contents)</sub>
 
 ## 🎮 Games
-- `FDM` [Ryujinx](https://github.com/Ryujinx/Ryujinx) <sup>`FOSS`</sup>
+- `FDM` [Ryujinx](https://git.ryujinx.app/ryubing/ryujinx) <sup>`FOSS`</sup>
 - `FDM` [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) <sup>`FOSS`</sup>
 
 <sub>[📃 Table of contents](#-table-of-contents)</sub>
