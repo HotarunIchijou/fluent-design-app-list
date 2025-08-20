@@ -191,6 +191,7 @@
   - `FDM` [Image Viewer](https://github.com/dragonofmercy/image-viewer) <sup>`FOSS`</sup>
   - `FDM` [Sakura Photo Viewer](https://apps.microsoft.com/store/detail/sakura-photo-viewer/9PG9N9FTR590?hl=en-us&gl=us)
   - `FDM` [Visum Photo Viewer](https://apps.microsoft.com/store/detail/visum-photo-viewer/9N1X3Z50BLM8)
+  - `FDM` [Pixeval](https://apps.microsoft.com/detail/9p1rzl9z8454)
 
 - ### ⛩️ Anime/Manga
   - `FDM` [Totoro](https://github.com/insomniachi/Totoro) <sup>`FOSS`</sup>
