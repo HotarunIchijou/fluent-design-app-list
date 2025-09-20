@@ -93,7 +93,7 @@
     - `FDM` [UWPX](https://github.com/UWPX/UWPX-Client) <sup>`FOSS`</sup> <sup>`☠️`</sup>
 
 - ### 📧 E-Mail Clients
-  - `FDM` [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL)
+  - `FDM` [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL) <sup>`FOSS`</sup>
   - `FDM` [Microsoft Outlook](https://www.microsoft.com/store/productid/9NRX63209R7B?ocid=pdpshare)
     
 - ### ⬇️ BitTorrent Clients
