@@ -170,6 +170,7 @@
 - `FDM` [FireBrowser](https://github.com/FirebrowserDevs/FireBrowser-Uwp) <sup>`FOSS`</sup> <sup>`☠️`</sup>
 - `FDM` [Swift Browser](https://github.com/FireCubeStudios/SwiftBrowser) <sup>`FOSS`</sup> <sup>`☠️`</sup>
 - `FDM` [Yttrium](https://github.com/muznyo/Yttrium) <sup>`FOSS`</sup> <sup>`☠️`</sup>
+- `FDM` [Zen Browser](https://github.com/zen-browser/desktop) <sup>`📎Uses its own implementation of Mica effect`</sup>
 
 <sub>[📃 Table of contents](#-table-of-contents)</sub>
 
