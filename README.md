@@ -95,6 +95,7 @@
 - ### 📧 E-Mail Clients
   - `FDM` [Wino Mail](https://apps.microsoft.com/store/detail/wino-mail-preview/9NCRCVJC50WL) <sup>`FOSS`</sup>
   - `FDM` [Microsoft Outlook](https://www.microsoft.com/store/productid/9NRX63209R7B?ocid=pdpshare)
+  - `FDM` [Eppie Mail](https://github.com/Eppie-io/Eppie-App)<sup>`FOSS`</sup>
     
 - ### ⬇️ BitTorrent Clients
   - `FDM` [qBitTorrent](https://github.com/qbittorrent/qBittorrent) <sup>`FOSS`</sup> <sup>[`📎Needs Additional Setup`](https://github.com/witalihirsch/qBitTorrent-fluent-theme)</sup> <sup>`⭐`</sup>
