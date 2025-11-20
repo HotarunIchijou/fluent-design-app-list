@@ -76,10 +76,10 @@
 - ### 👥 Social media/Messaging
   - `FDM` <img src="https://i.ibb.co/FhHBYj5/telegram.png" alt="telegram" width="24" height="24" /> [Unigram](https://github.com/UnigramDev/Unigram) <sup>`FOSS`</sup> <sup>`⭐`</sup>
   - `FDM` <img src="https://i.ibb.co/wgTfFvc/vk.png" alt="vk" width="24" height="24" /> [Laney](https://www.microsoft.com/store/productid/9MSPLCXVN1M5?ocid=pdpshare) <sup>`⭐`</sup>
-  - `FDM` <img src="https://i.ibb.co/Jtqtpj7/instagram.png" alt="instagram" width="24" height="24" /> [Indirect](https://github.com/huynhsontung/Indirect) <sup>`FOSS`</sup> <sup>`☠️`</sup> 
-  - `FDM` <img src="https://i.ibb.co/31qgGDb/icons8-mastodon-1.png" alt="mastodon" height="24" width="24" /> [Bluechirp](https://github.com/AnalogFeelings/Bluechirp) <sup>`FOSS`</sup> <sup>`Not Released`</sup>
-  - `FDM` <img src="https://i.ibb.co/P5fvqF2/icons8-twitter-512.png" alt="x" height="24" width="24" /> [Bluesky](https://bsky.app/profile/firecube.bsky.social) <sup>`Not Released`</sup>
-  - `FD` <img src="https://i.ibb.co/dLRRMg7/whatsapp.png" alt="whatsapp" height="24" width="24" /> [WhatsApp](https://apps.microsoft.com/detail/whatsapp/9NKSQGP7F2NH) <sup>`⭐`</sup>
+  - `FDM` <img src="https://i.ibb.co/Jtqtpj7/instagram.png" alt="instagram" width="24" height="24" /> [Indirect](https://github.com/huynhsontung/Indirect) <sup>`FOSS`</sup> 
+  - `FDM` <img src="https://i.ibb.co/31qgGDb/icons8-mastodon-1.png" alt="mastodon" height="24" width="24" /> [Bluechirp](https://github.com/AnalogFeelings/Bluechirp) <sup>`FOSS`</sup> <sup>`☠️`</sup>
+  - `FDM` <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="Bluesky" height="20" width="20" /> [DarkSky](https://apps.microsoft.com/detail/9np22dtfscts?hl=en-us&gl=US) <sup>`FOSS`</sup>
+  - `FD` <img src="https://i.ibb.co/dLRRMg7/whatsapp.png" alt="whatsapp" height="24" width="24" /> [WhatsApp](https://apps.microsoft.com/detail/whatsapp/9NKSQGP7F2NH)
   - ### <img src="https://i.ibb.co/XxGp7CC/discord.png" alt="discord" width="24" height="24" /> Discord
     - `FDM` [Quarrel](https://github.com/UWPCommunity/Quarrel) <sup>`FOSS`</sup> <sup>`Not Released`</sup>
     - `FDM` [Mica Discord](https://github.com/GetGet99/Mica-Discord) <sup>`FOSS`</sup>
@@ -106,11 +106,10 @@
 
 
 ## ✏️ Text/Code Editors/Office apps 
-- ### 🖋️ Text Editors
-  - `FDM` [Windows Notepad](https://apps.microsoft.com/store/detail/text-space/9N6CPGZGXSVT) <sup>`⭐`</sup>
+- ### 🖋️ Text Editors 
+  - `FDM` [Windows Notepad](https://apps.microsoft.com/store/detail/text-space/9N6CPGZGXSVT)
   - `FDM` [Text space](https://apps.microsoft.com/store/detail/text-space/9N6CPGZGXSVT)
   - `FDM` [Storylines](https://apps.microsoft.com/store/detail/storylines/9PN77P9WJ3CX)
-  - `FDM` [Typedown](https://apps.microsoft.com/store/detail/typedown/9P8TCW4H2HB4)
   - `FDM` [Ivirius Text Editor](https://apps.microsoft.com/store/detail/ivirius-text-editor/9MV281ZZF51P)
   - `FDM` [TowPad](https://github.com/itsWindows11/TowPad) <sup>`FOSS`</sup> <sup>`Not Released`</sup> 
   - `FDM` [RectifyPad](https://github.com/Lixkote/RectifyPad) <sup>`FOSS`</sup> <sup>`Not Released`</sup>
@@ -137,6 +136,7 @@
 
 ## 📒 Notes/To-Do/Drawboards
 - ### 📝 Notes
+  - `FDM` [Typedown](https://apps.microsoft.com/store/detail/typedown/9P8TCW4H2HB4) <sup>`FOSS`</sup> <sup>`⭐`</sup>
   - `FDM` [HiNote](https://apps.microsoft.com/store/detail/hinote/9N94LT5S8FD9)
   - `FDM` [Microsoft OneNote](https://apps.microsoft.com/store/detail/XPFFZHVGQWWLHB?ocid=pdpshare)
   - `FDM` [Rich Sticky Notes - Alpha](https://apps.microsoft.com/detail/9NJVV20WLDV2)
@@ -160,18 +160,18 @@
 <sub>[📃 Table of contents](#-table-of-contents)</sub>
 
 ## 🌎 Browsers
-- `FDM` [Microsoft Edge](https://www.microsoft.com//edge/download) <sup>`⭐`</sup>
+- `FDM` [Firefox](https://apps.microsoft.com/detail/9nzvdkpmr9rd) <sup>[`📎 Additional setup required`](https://github.com/Lockframe/Firefox-WinUI)</sup> <sup>`⭐`</sup>
+- `FDM` [Microsoft Edge](https://www.microsoft.com//edge/download)
 - `FDM` [Google Chrome](https://www.google.com/chrome)
-- `FDM` [Arc Browser](https://arc.net/download) <sup>`📎Uses its own implementation of Mica effect`</sup> <sup>`☠️`</sup>
 - `FDM` [FireBrowserWinUI](https://apps.microsoft.com/detail/9pcn40xxvcvb) <sup>`FOSS`</sup>
-- `FDM` [Firefox](https://www.mozilla.org/firefox/new/) <sup>`FOSS`</sup> <sup>[`📎Needs Additional Setup`](https://windowsreport.com/firefox-nightly-suppports-the-mica-effect-natively-on-windows-11-and-heres-how-you-can-enable-it/)</sup>
+- `FDM` [Zen Browser](https://github.com/zen-browser/desktop) <sup>`FOSS`</sup> <sup>`📎Uses its own implementation of Mica effect`</sup>
 - `FDM` [Aurora](https://apps.microsoft.com/detail/9mxzldlctfwl)
 - `FDM` [Radon Browser](https://apps.microsoft.com/detail/9n38ctmdrbff)
 - `FDM` [Odyssey](https://github.com/deadwood2/OdysseyWebBrowser) <sup>`FOSS`</sup> <sup>`Not released`</sup>
 - `FDM` [FireBrowser](https://github.com/FirebrowserDevs/FireBrowser-Uwp) <sup>`FOSS`</sup> <sup>`☠️`</sup>
 - `FDM` [Swift Browser](https://github.com/FireCubeStudios/SwiftBrowser) <sup>`FOSS`</sup> <sup>`☠️`</sup>
 - `FDM` [Yttrium](https://github.com/muznyo/Yttrium) <sup>`FOSS`</sup> <sup>`☠️`</sup>
-- `FDM` [Zen Browser](https://github.com/zen-browser/desktop) <sup>`📎Uses its own implementation of Mica effect`</sup>
+- `FDM` [Arc Browser](https://arc.net/download) <sup>`📎Uses its own implementation of Mica effect`</sup>
 
 <sub>[📃 Table of contents](#-table-of-contents)</sub>
 
@@ -260,9 +260,9 @@
 <sub>[📃 Table of contents](#-table-of-contents)</sub>
  
 ## 🖌️ Windows Customization
-- `FDM` [Rectify11](https://github.com/Rectify11/Installer) <sup>`FOSS`</sup> <sup>`⭐`</sup>
-- `FDM` [AccentColorizer](https://github.com/krlvm/AccentColorizer) <sup>`FOSS`</sup> <sup>`⭐`</sup>
 - `FDM` [Mica For Everyone](https://github.com/MicaForEveryone/MicaForEveryone) <sup>`FOSS`</sup> <sup>`⭐`</sup>
+- `FDM` [Rectify11](https://github.com/Rectify11/Installer) <sup>`FOSS`</sup>
+- `FDM` [AccentColorizer](https://github.com/krlvm/AccentColorizer) <sup>`FOSS`</sup>
 - `FDM` [AME Wizard](https://git.ameliorated.info/Styris/trusted-uninstaller-cli) <sup>`FOSS`</sup>
 - `FDM` [MagPie](https://github.com/Blinue/Magpie) <sup>`FOSS`</sup>
 - `FDM` [Revision Tool](https://github.com/meetrevision/revision-tool) <sup>`FOSS`</sup> <sup>[`📎For ReviOS Only`](https://github.com/meetrevision/playbook)</sup>
@@ -279,8 +279,8 @@
 ## 🔧 Utilites
 - ### 🧰 Developer Tools
   - `FDM` [PowerToys](https://github.com/microsoft/PowerToys) <sup>`FOSS`</sup> <sup>`⭐`</sup>
+  - `FDM` [DevToys](https://github.com/veler/DevToys) <sup>`FOSS`</sup> <sup>`⭐`</sup>
   - `FDM` [FluentHub](https://github.com/FluentHub/FluentHub) <sup>`FOSS`</sup>
-  - `FDM` [DevToys](https://github.com/veler/DevToys) <sup>`FOSS`</sup>
   - `FDM` [WinUI Gallery](https://github.com/microsoft/WinUI-Gallery) <sup>`FOSS`</sup>
   - `FDM` [UWPSpy](https://github.com/m417z/UWPSpy) <sup>`FOSS`</sup>
   - `FDM` [Registry Valley](https://github.com/0x5bfa/RegistryValley) <sup>`FOSS`</sup> <sup>`Not Released`</sup>
@@ -327,9 +327,9 @@
   - `FDM` [EverythingToolbar](https://github.com/srwi/EverythingToolbar) <sup>`FOSS`</sup>
 
 - ### 🛠️ Other Utilities
-  - `FDM` [Fluent Screen Recorder](https://github.com/MarcAnt01/Fluent-Screen-Recorder) <sup>`FOSS`</sup> <sup>`⭐`</sup>
   - `FDM` [Snipping Tool](https://www.microsoft.com/store/productid/9MZ95KL8MR0L?ocid=pdpshare) <sup>`⭐`</sup>
   - `FDM` [Windows Calculator](https://github.com/microsoft/calculator) <sup>`FOSS`</sup> <sup>`⭐`</sup>
+  - `FDM` [Fluent Screen Recorder](https://github.com/MarcAnt01/Fluent-Screen-Recorder) <sup>`FOSS`</sup>
   - `FDM` [Fast Copy](https://github.com/HO-COOH/FastCopy) <sup>`FOSS`</sup>
   - `FDM` [Text-Grab](https://github.com/TheJoeFin/Text-Grab) <sup>`FOSS`</sup>
   - `FDM` [WinToys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
