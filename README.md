@@ -160,7 +160,7 @@
 <sub>[📃 Table of contents](#-table-of-contents)</sub>
 
 ## 🌎 Browsers
-- `FDM` [Firefox](https://apps.microsoft.com/detail/9nzvdkpmr9rd) <sup>[`📎 Additional setup required`](https://github.com/Lockframe/Firefox-WinUI)</sup> <sup>`⭐`</sup>
+- `FDM` [Firefox](https://apps.microsoft.com/detail/9nzvdkpmr9rd) <sup>`FOSS`</sup> <sup>[`📎 Additional setup required`](https://github.com/Lockframe/Firefox-WinUI)</sup> <sup>`⭐`</sup>
 - `FDM` [Microsoft Edge](https://www.microsoft.com//edge/download)
 - `FDM` [Google Chrome](https://www.google.com/chrome)
 - `FDM` [FireBrowserWinUI](https://apps.microsoft.com/detail/9pcn40xxvcvb) <sup>`FOSS`</sup>
