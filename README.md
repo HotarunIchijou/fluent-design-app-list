@@ -191,6 +191,7 @@
 - ### 🖼️ Gallery
   - `FDM` [Microsoft Photos](https://www.microsoft.com/store/productid/9WZDNCRFJBH4?ocid=pdpshare) <sup>`⭐`</sup>
   - `FDM` [Image Viewer](https://github.com/dragonofmercy/image-viewer) <sup>`FOSS`</sup>
+  - `FDM` [ImageGlass](https://github.com/d2phap/ImageGlass) <sup>`FOSS`</sup>
   - `FDM` [Sakura Photo Viewer](https://apps.microsoft.com/store/detail/sakura-photo-viewer/9PG9N9FTR590?hl=en-us&gl=us)
   - `FDM` [Visum Photo Viewer](https://apps.microsoft.com/store/detail/visum-photo-viewer/9N1X3Z50BLM8)
 
