@@ -75,7 +75,7 @@
 ## 📱 Clients
 - ### 👥 Social media/Messaging
   - `FDM` <img src="https://i.ibb.co/FhHBYj5/telegram.png" alt="telegram" width="24" height="24" /> [Unigram](https://github.com/UnigramDev/Unigram) <sup>`FOSS`</sup> <sup>`⭐`</sup>
-  - `FDM` <img src="https://i.ibb.co/wgTfFvc/vk.png" alt="vk" width="24" height="24" /> [Laney](https://www.microsoft.com/store/productid/9MSPLCXVN1M5?ocid=pdpshare) <sup>`☠️`</sup>
+  - `FDM` <img src="https://i.ibb.co/wgTfFvc/vk.png" alt="vk" width="24" height="24" /> [Laney](https://www.microsoft.com/store/productid/9MSPLCXVN1M5?ocid=pdpshare) <sup>`FOSS`</sup> <sup>`☠️`</sup>
   - `FDM` <img src="https://i.ibb.co/Jtqtpj7/instagram.png" alt="instagram" width="24" height="24" /> [Indirect](https://github.com/huynhsontung/Indirect) <sup>`FOSS`</sup> 
   - `FDM` <img src="https://i.ibb.co/31qgGDb/icons8-mastodon-1.png" alt="mastodon" height="24" width="24" /> [Bluechirp](https://github.com/AnalogFeelings/Bluechirp) <sup>`FOSS`</sup> <sup>`☠️`</sup>
   - `FDM` <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="Bluesky" height="20" width="20" /> [DarkSky](https://apps.microsoft.com/detail/9np22dtfscts?hl=en-us&gl=US) <sup>`FOSS`</sup>
@@ -107,7 +107,7 @@
 
 ## ✏️ Text/Code Editors/Office apps 
 - ### 🖋️ Text Editors 
-  - `FDM` [Windows Notepad](https://apps.microsoft.com/store/detail/text-space/9N6CPGZGXSVT)
+  - `FDM` [Windows Notepad](https://apps.microsoft.com/detail/9msmlrh6lzf3)
   - `FDM` [Text space](https://apps.microsoft.com/store/detail/text-space/9N6CPGZGXSVT)
   - `FDM` [Storylines](https://apps.microsoft.com/store/detail/storylines/9PN77P9WJ3CX)
   - `FDM` [Ivirius Text Editor](https://apps.microsoft.com/store/detail/ivirius-text-editor/9MV281ZZF51P)
