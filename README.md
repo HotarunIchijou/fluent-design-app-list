@@ -235,6 +235,7 @@
   - `FDM` [HEIC to JPEG](https://apps.microsoft.com/store/detail/heic-to-jpeg-heicheif-to-jpg-converter/9NTVCMPJM5V3)
   - `FD` [PDF Jack](https://apps.microsoft.com/store/detail/pdf-jack/9NBLGGH1P3P6)
   - `FDM` [Pixeval](https://apps.microsoft.com/detail/9p1rzl9z8454)
+  - `FDM` [BetterLyrics](https://apps.microsoft.com/detail/9nn2zc496lw5)
 
 <sub>[📃 Table of contents](#-table-of-contents)</sub>
 
