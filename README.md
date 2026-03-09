@@ -352,6 +352,6 @@
   - `FD` [Ritt](https://apps.microsoft.com/detail/9N020ZXP2Z1G)
   - `FD` [UUP Media Creator](https://apps.microsoft.com/store/detail/uup-media-creator/9N1Z0JXB224X)
   - `FDM` [FluentInfo](https://www.microsoft.com/store/apps/9n949bzl5km2)
-
+  - `FDM` [ClipShelf](https://www.clipshelf.app/)
 <sub>[📃 Table of contents](#-table-of-contents)</sub>
 
