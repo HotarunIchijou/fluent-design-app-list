@@ -353,6 +353,7 @@
   - `FD` [UUP Media Creator](https://apps.microsoft.com/store/detail/uup-media-creator/9N1Z0JXB224X)
   - `FDM` [FluentInfo](https://www.microsoft.com/store/apps/9n949bzl5km2)
   - `FDM` [ClipShelf](https://www.clipshelf.app/)
+  - `FDM` [RyTuneX](https://github.com/rayenghanmi/RyTuneX) <sup>`FOSS`</sup>
   
 <sub>[📃 Table of contents](#-table-of-contents)</sub>
 
