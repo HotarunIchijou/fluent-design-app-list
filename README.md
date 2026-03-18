@@ -354,6 +354,7 @@
   - `FDM` [FluentInfo](https://www.microsoft.com/store/apps/9n949bzl5km2)
   - `FDM` [ClipShelf](https://www.clipshelf.app/)
   - `FDM` [RyTuneX](https://github.com/rayenghanmi/RyTuneX) <sup>`FOSS`</sup>
-  
+  - `FDM` [PowerToolbox](https://apps.microsoft.com/detail/9MV67V21H386)
+
 <sub>[📃 Table of contents](#-table-of-contents)</sub>
 
