@@ -355,7 +355,7 @@
   - `FDM` [ClipShelf](https://www.clipshelf.app/)
   - `FDM` [RyTuneX](https://github.com/rayenghanmi/RyTuneX) <sup>`FOSS`</sup>
   - `FDM` [PowerToolbox](https://apps.microsoft.com/detail/9MV67V21H386)
-  - `FDM` [CtrlHelp](https://ctrlhelp.velersoftware.com/) <sup>`☠️`</sup>
+  - `FDM` [CtrlHelp](https://ctrlhelp.velersoftware.com/) <sup>`💰`</sup>
 
 <sub>[📃 Table of contents](#-table-of-contents)</sub>
 
