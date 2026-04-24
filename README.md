@@ -357,6 +357,7 @@
   - `FDM` [PowerToolbox](https://apps.microsoft.com/detail/9MV67V21H386)
   - `FDM` [CtrlHelp](https://ctrlhelp.velersoftware.com/) <sup>`💰`</sup>
   - `FDM` [Fluent GIF Picker](https://apps.microsoft.com/detail/9n6q7kzx4ngj)
+  - `FD`  [Lech YT-DLP](https://apps.microsoft.com/detail/9N28HRK3320G)
 
 <sub>[📃 Table of contents](#-table-of-contents)</sub>
 
