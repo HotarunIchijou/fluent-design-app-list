@@ -172,6 +172,7 @@
 - `FDM` [Swift Browser](https://github.com/FireCubeStudios/SwiftBrowser) <sup>`FOSS`</sup> <sup>`☠️`</sup>
 - `FDM` [Yttrium](https://github.com/muznyo/Yttrium) <sup>`FOSS`</sup> <sup>`☠️`</sup>
 - `FDM` [Arc Browser](https://arc.net/download) <sup>`📎Uses its own implementation of Mica effect`</sup>
+- `FDM` [Horizon](https://apps.microsoft.com/detail/9pfs0vxcd5sr) <sup>`FOSS`</sup>
 
 <sub>[📃 Table of contents](#-table-of-contents)</sub>
 
