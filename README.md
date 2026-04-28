@@ -187,6 +187,7 @@
   - `FDM` [Strix Music](https://github.com/Arlodotexe/strix-music) <sup>`FOSS`</sup>
   - `FDM` [Stylophone](https://github.com/Difegue/Stylophone) <sup>`FOSS`</sup>
   - `FDM` [Meloisk](https://apps.microsoft.com/store/detail/melosik-music-player-for-windows/9NH759PMH26M)
+  - `FDM` [Untamed Music Player](https://github.com/LanZhan-Harmony/WindowsMusicPlayer-TheUntamedMusicPlayer) <sup>`FOSS`</sup>
 
 - ### 🖼️ Gallery
   - `FDM` [Microsoft Photos](https://www.microsoft.com/store/productid/9WZDNCRFJBH4?ocid=pdpshare) <sup>`⭐`</sup>
