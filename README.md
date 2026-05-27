@@ -79,7 +79,6 @@
   - `FDM` <img src="https://i.ibb.co/Jtqtpj7/instagram.png" alt="instagram" width="24" height="24" /> [Indirect](https://github.com/huynhsontung/Indirect) <sup>`FOSS`</sup> <sup>`☠️`</sup> 
   - `FDM` <img src="https://i.ibb.co/31qgGDb/icons8-mastodon-1.png" alt="mastodon" height="24" width="24" /> [Bluechirp](https://github.com/AnalogFeelings/Bluechirp) <sup>`FOSS`</sup> <sup>`☠️`</sup>
   - `FDM` <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="Bluesky" height="20" width="20" /> [DarkSky](https://apps.microsoft.com/detail/9np22dtfscts?hl=en-us&gl=US) <sup>`FOSS`</sup>
-  - `FD` <img src="https://i.ibb.co/dLRRMg7/whatsapp.png" alt="whatsapp" height="24" width="24" /> [WhatsApp](https://apps.microsoft.com/detail/whatsapp/9NKSQGP7F2NH)
   - ### <img src="https://i.ibb.co/XxGp7CC/discord.png" alt="discord" width="24" height="24" /> Discord
     - `FDM` [Quarrel](https://github.com/UWPCommunity/Quarrel) <sup>`FOSS`</sup> <sup>`Not Released`</sup>
     - `FDM` [Mica Discord](https://github.com/GetGet99/Mica-Discord) <sup>`FOSS`</sup>
