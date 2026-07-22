@@ -237,7 +237,7 @@
   - `FD` [PDF Jack](https://apps.microsoft.com/store/detail/pdf-jack/9NBLGGH1P3P6)
   - `FDM` [Pixeval](https://apps.microsoft.com/detail/9p1rzl9z8454)
   - `FDM` [BetterLyrics](https://apps.microsoft.com/detail/9nn2zc496lw5)
-  - `FDM` [Microsoft PC Manager](https://apps.microsoft.com/detail/9nn2zc496lw5)
+  - `FDM` [Microsoft PC Manager](https://apps.microsoft.com/detail/9pm860492szd)
 
 <sub>[📃 Table of contents](#-table-of-contents)</sub>
 
