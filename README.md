@@ -8,7 +8,7 @@
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/46f07c163493153.646f78f46a7ea.jpg" alt="FluentDesign"
 </p>
 
----
+
 ## 📃 Table of contents
 - [📱 Clients](#-clients)
   - [👥 Social media/Messaging](#-social-mediamessaging)
@@ -50,17 +50,15 @@
   - [🛍️ App Stores](#%EF%B8%8F-app-stores)
   - [🔎 Search](#-search)
   - [🛠️ Other Utilities](#%EF%B8%8F-other-utilities)
----
 
+ 
 ## Differences between FD and FDM
-
 | Abbreviation | Meaning | Design | Mica effect |
 |:-:|-|:-:|:-:|
 |**`FD`**|Apps that follows WinUI3 philosophy but doesn't have Mica effect|✅|🚫|
 |**`FDM`**|Apps that fully follows WinUI3 philosophy|✅|✅|
 
 ## Other abbreviations
-  
 |Abbreviation|Meaning|
 |:-:|-|
 |**`FOSS`**|Apps are Free and Open Source. No indicator means app is Closed Source|
@@ -70,7 +68,19 @@
 |**`☠️`**|Apps that were discontinued|
 |**`⭐`**|Apps that I personally use|
 
----
+
+## 🆕 Newly Added Apps!
+- `FDM` [Microsoft PC Manager](https://apps.microsoft.com/detail/9pm860492szd)
+- `FDM` [Horizon](https://apps.microsoft.com/detail/9pfs0vxcd5sr) <sup>`FOSS`</sup>
+- `FDM` [Untamed Music Player](https://github.com/LanZhan-Harmony/WindowsMusicPlayer-TheUntamedMusicPlayer) <sup>`FOSS`</sup>
+- `FD` [Lech YT-DLP](https://apps.microsoft.com/detail/9N28HRK3320G)
+- `FDM` [Fluent GIF Picker](https://apps.microsoft.com/detail/9n6q7kzx4ngj)
+- `FDM` [CtrlHelp](https://ctrlhelp.velersoftware.com/) <sup>`💰`</sup>
+- `FDM` [PowerToolbox](https://apps.microsoft.com/detail/9MV67V21H386)
+- `FDM` [RyTuneX](https://github.com/rayenghanmi/RyTuneX) <sup>`FOSS`</sup>
+- `FDM` [ClipShelf](https://www.clipshelf.app/)
+- `FDM` [BetterLyrics](https://apps.microsoft.com/detail/9nn2zc496lw5)
+
 
 ## 📱 Clients
 - ### 👥 Social media/Messaging
