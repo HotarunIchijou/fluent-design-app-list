@@ -79,7 +79,7 @@
 - `FDM` [PowerToolbox](https://apps.microsoft.com/detail/9MV67V21H386)
 - `FDM` [RyTuneX](https://github.com/rayenghanmi/RyTuneX) <sup>`FOSS`</sup>
 - `FDM` [ClipShelf](https://www.clipshelf.app/)
-- `FDM` [BetterLyrics](https://apps.microsoft.com/detail/9nn2zc496lw5)
+- `FDM` [BetterLyrics](https://github.com/jayfunc/BetterLyrics) <sup>`FOSS`</sup>
 
 
 ## 📱 Clients
@@ -246,7 +246,7 @@
   - `FDM` [HEIC to JPEG](https://apps.microsoft.com/store/detail/heic-to-jpeg-heicheif-to-jpg-converter/9NTVCMPJM5V3)
   - `FD` [PDF Jack](https://apps.microsoft.com/store/detail/pdf-jack/9NBLGGH1P3P6)
   - `FDM` [Pixeval](https://apps.microsoft.com/detail/9p1rzl9z8454)
-  - `FDM` [BetterLyrics](https://apps.microsoft.com/detail/9nn2zc496lw5)
+  - `FDM` [BetterLyrics](https://github.com/jayfunc/BetterLyrics) <sup>`FOSS`</sup>
   - `FDM` [Microsoft PC Manager](https://apps.microsoft.com/detail/9pm860492szd)
 
 <sub>[📃 Table of contents](#-table-of-contents)</sub>
