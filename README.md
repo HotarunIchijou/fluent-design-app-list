@@ -71,6 +71,8 @@
 
 
 ## 🆕 Newly Added Apps!
+
+- `FDM` [SmoothTube](https://apps.microsoft.com/detail/9p5gngw9n606)
 - `FDM` [Microsoft PC Manager](https://apps.microsoft.com/detail/9pm860492szd)
 - `FDM` [Horizon](https://apps.microsoft.com/detail/9pfs0vxcd5sr) <sup>`FOSS`</sup>
 - `FDM` [Untamed Music Player](https://github.com/LanZhan-Harmony/WindowsMusicPlayer-TheUntamedMusicPlayer) <sup>`FOSS`</sup>
@@ -80,7 +82,6 @@
 - `FDM` [PowerToolbox](https://apps.microsoft.com/detail/9MV67V21H386)
 - `FDM` [RyTuneX](https://github.com/rayenghanmi/RyTuneX) <sup>`FOSS`</sup>
 - `FDM` [ClipShelf](https://www.clipshelf.app/)
-- `FDM` [BetterLyrics](https://github.com/jayfunc/BetterLyrics) <sup>`FOSS`</sup>
 
 
 ## 📱 Clients
@@ -193,6 +194,7 @@
   - `FDM` [Rune](https://github.com/Losses/rune) <sup>`FOSS`</sup>
   - `FDM` [Windows Media Player](https://www.microsoft.com/store/productid/9WZDNCRFJ3PT?ocid=pdpshare)
   - `FDM` [Pinnacle Media Player](https://apps.microsoft.com/store/detail/pinnacle-media-player/9P534C2W7JK3)
+  - `FDM` [SmoothTube](https://apps.microsoft.com/detail/9p5gngw9n606)
 
 - ### 🎧 Music Players
   - `FDM` [Strix Music](https://github.com/Arlodotexe/strix-music) <sup>`FOSS`</sup>
