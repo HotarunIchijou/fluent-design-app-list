@@ -10,6 +10,7 @@
 
 
 ## 📃 Table of contents
+- [🆕 Newly Added Apps!](#-newly-added-apps)
 - [📱 Clients](#-clients)
   - [👥 Social media/Messaging](#-social-mediamessaging)
   - [📧 E-Mail Clients](#-e-mail-clients)
