@@ -72,6 +72,8 @@
 
 ## 🆕 Newly Added Apps!
 
+- `FDM` [Skyline Weather](https://apps.microsoft.com/detail/9n33pk9646x9) <sup>[`📎Needs Additional Setup`](https://github.com/HotarunIchijou/fluent-design-app-list/issues/18)</sup>
+- `FDM` [Blip Transfer](https://apps.microsoft.com/detail/9n7jsxc1sjk6)
 - `FDM` [SmoothTube](https://apps.microsoft.com/detail/9p5gngw9n606)
 - `FDM` [Microsoft PC Manager](https://apps.microsoft.com/detail/9pm860492szd)
 - `FDM` [Horizon](https://apps.microsoft.com/detail/9pfs0vxcd5sr) <sup>`FOSS`</sup>
@@ -80,8 +82,6 @@
 - `FDM` [Fluent GIF Picker](https://apps.microsoft.com/detail/9n6q7kzx4ngj)
 - `FDM` [CtrlHelp](https://ctrlhelp.velersoftware.com/) <sup>`💰`</sup>
 - `FDM` [PowerToolbox](https://apps.microsoft.com/detail/9MV67V21H386)
-- `FDM` [RyTuneX](https://github.com/rayenghanmi/RyTuneX) <sup>`FOSS`</sup>
-- `FDM` [ClipShelf](https://www.clipshelf.app/)
 
 
 ## 📱 Clients
@@ -251,7 +251,8 @@
   - `FDM` [Pixeval](https://apps.microsoft.com/detail/9p1rzl9z8454)
   - `FDM` [BetterLyrics](https://github.com/jayfunc/BetterLyrics) <sup>`FOSS`</sup>
   - `FDM` [Microsoft PC Manager](https://apps.microsoft.com/detail/9pm860492szd)
-
+  - `FDM` [Blip Transfer](https://apps.microsoft.com/detail/9n7jsxc1sjk6)
+  
 <sub>[📃 Table of contents](#-table-of-contents)</sub>
 
 ## 🎮 Games
@@ -373,6 +374,7 @@
   - `FDM` [CtrlHelp](https://ctrlhelp.velersoftware.com/) <sup>`💰`</sup>
   - `FDM` [Fluent GIF Picker](https://apps.microsoft.com/detail/9n6q7kzx4ngj)
   - `FD`  [Lech YT-DLP](https://apps.microsoft.com/detail/9N28HRK3320G)
+  - `FDM` [Skyline Weather](https://apps.microsoft.com/detail/9n33pk9646x9) <sup>[`📎Needs Additional Setup`](https://github.com/HotarunIchijou/fluent-design-app-list/issues/18))</sup>
 
 <sub>[📃 Table of contents](#-table-of-contents)</sub>
 
