@@ -72,6 +72,8 @@
 
 ## 🆕 Newly Added Apps!
 
+- `FDM` [FluentFlyout](https://fluentflyout.com/download/) <sup>`FOSS`</sup>
+- `FDM` [Fontager](https://github.com/ysfemreAlbyrk/Fontager) <sup>`FOSS`</sup>
 - `FDM` [Skyline Weather](https://apps.microsoft.com/detail/9n33pk9646x9) <sup>[`📎Needs Additional Setup`](https://github.com/HotarunIchijou/fluent-design-app-list/issues/18)</sup>
 - `FDM` [Blip Transfer](https://apps.microsoft.com/detail/9n7jsxc1sjk6)
 - `FDM` [SmoothTube](https://apps.microsoft.com/detail/9p5gngw9n606)
@@ -80,8 +82,6 @@
 - `FDM` [Untamed Music Player](https://github.com/LanZhan-Harmony/WindowsMusicPlayer-TheUntamedMusicPlayer) <sup>`FOSS`</sup>
 - `FD` [Lech YT-DLP](https://apps.microsoft.com/detail/9N28HRK3320G)
 - `FDM` [Fluent GIF Picker](https://apps.microsoft.com/detail/9n6q7kzx4ngj)
-- `FDM` [CtrlHelp](https://ctrlhelp.velersoftware.com/) <sup>`💰`</sup>
-- `FDM` [PowerToolbox](https://apps.microsoft.com/detail/9MV67V21H386)
 
 
 ## 📱 Clients
@@ -252,6 +252,7 @@
   - `FDM` [BetterLyrics](https://github.com/jayfunc/BetterLyrics) <sup>`FOSS`</sup>
   - `FDM` [Microsoft PC Manager](https://apps.microsoft.com/detail/9pm860492szd)
   - `FDM` [Blip Transfer](https://apps.microsoft.com/detail/9n7jsxc1sjk6)
+  - `FDM` [Fontager](https://github.com/ysfemreAlbyrk/Fontager) <sup>`FOSS`</sup>
   
 <sub>[📃 Table of contents](#-table-of-contents)</sub>
 
@@ -375,6 +376,7 @@
   - `FDM` [Fluent GIF Picker](https://apps.microsoft.com/detail/9n6q7kzx4ngj)
   - `FD`  [Lech YT-DLP](https://apps.microsoft.com/detail/9N28HRK3320G)
   - `FDM` [Skyline Weather](https://apps.microsoft.com/detail/9n33pk9646x9) <sup>[`📎Needs Additional Setup`](https://github.com/HotarunIchijou/fluent-design-app-list/issues/18))</sup>
+  - `FDM` [FluentFlyout](https://fluentflyout.com/download/) <sup>`FOSS`</sup>
 
 <sub>[📃 Table of contents](#-table-of-contents)</sub>
 
