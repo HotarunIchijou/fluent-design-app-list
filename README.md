@@ -72,6 +72,7 @@
 
 ## 🆕 Newly Added Apps!
 
+- `FDM` [Fluver](https://github.com/Tech5G5G/Fluentver) <sup>`FOSS`</sup>
 - `FDM` [FluentPDF](https://apps.microsoft.com/detail/9mwvmjs26mkg)
 - `FDM` [FluentFlyout](https://fluentflyout.com/download/) <sup>`FOSS`</sup>
 - `FDM` [Fontager](https://github.com/ysfemreAlbyrk/Fontager) <sup>`FOSS`</sup>
@@ -81,7 +82,6 @@
 - `FDM` [Microsoft PC Manager](https://apps.microsoft.com/detail/9pm860492szd)
 - `FDM` [Horizon](https://apps.microsoft.com/detail/9pfs0vxcd5sr) <sup>`FOSS`</sup>
 - `FDM` [Untamed Music Player](https://github.com/LanZhan-Harmony/WindowsMusicPlayer-TheUntamedMusicPlayer) <sup>`FOSS`</sup>
-- `FD` [Lech YT-DLP](https://apps.microsoft.com/detail/9N28HRK3320G)
 
 
 ## 📱 Clients
@@ -378,6 +378,7 @@
   - `FDM` [Skyline Weather](https://apps.microsoft.com/detail/9n33pk9646x9) <sup>[`📎Needs Additional Setup`](https://github.com/HotarunIchijou/fluent-design-app-list/issues/18))</sup>
   - `FDM` [FluentFlyout](https://fluentflyout.com/download/) <sup>`FOSS`</sup>
   - `FDM` [FluentPDF](https://apps.microsoft.com/detail/9mwvmjs26mkg)
+  - `FDM` [Fluver](https://github.com/Tech5G5G/Fluentver) <sup>`FOSS`</sup>
 
 <sub>[📃 Table of contents](#-table-of-contents)</sub>
 
