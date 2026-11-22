@@ -72,6 +72,7 @@
 
 ## 🆕 Newly Added Apps!
 
+- `FDM` [Wintodo](https://apps.microsoft.com/detail/9PF4DX2BSF0X)
 - `FDM` [Fluver](https://github.com/Tech5G5G/Fluentver) <sup>`FOSS`</sup>
 - `FDM` [FluentPDF](https://apps.microsoft.com/detail/9mwvmjs26mkg)
 - `FDM` [FluentFlyout](https://fluentflyout.com/download/) <sup>`FOSS`</sup>
@@ -81,7 +82,6 @@
 - `FDM` [SmoothTube](https://apps.microsoft.com/detail/9p5gngw9n606)
 - `FDM` [Microsoft PC Manager](https://apps.microsoft.com/detail/9pm860492szd)
 - `FDM` [Horizon](https://apps.microsoft.com/detail/9pfs0vxcd5sr) <sup>`FOSS`</sup>
-- `FDM` [Untamed Music Player](https://github.com/LanZhan-Harmony/WindowsMusicPlayer-TheUntamedMusicPlayer) <sup>`FOSS`</sup>
 
 
 ## 📱 Clients
@@ -151,6 +151,7 @@
   - `FDM` [HiNote](https://apps.microsoft.com/store/detail/hinote/9N94LT5S8FD9)
   - `FDM` [Microsoft OneNote](https://apps.microsoft.com/store/detail/XPFFZHVGQWWLHB?ocid=pdpshare)
   - `FDM` [Rich Sticky Notes - Alpha](https://apps.microsoft.com/detail/9NJVV20WLDV2)
+  - `FDM` [Wintodo](https://apps.microsoft.com/detail/9PF4DX2BSF0X)
   
 - ### ☑️ To-Do
   - `FDM` [To-Do](https://apps.microsoft.com/store/detail/todo%E1%B2%BC/9P7JL8SP2L1C)
