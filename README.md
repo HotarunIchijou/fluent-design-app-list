@@ -289,6 +289,7 @@
 - `FDM` [Lively Wallpaper](https://github.com/rocksdanister/lively)  <sup>`FOSS`</sup>
 - `FDM` [Custom Context Menu](https://github.com/ikas-mc/ContextMenuForWindows11) <sup>`FOSS`</sup>
 - `FDM` [TraslucentTB](https://github.com/TranslucentTB/TranslucentTB) <sup>`FOSS`</sup>
+- `FDM` [CharmsBar Mica](https://github.com/Kotofey008/charms-bar-mica)  <sup>`FOSS`</sup>
 - `FDM` [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) <sup>`FOSS`</sup>
 - `FDM` [Twinkle Tray](https://github.com/xanderfrangos/twinkle-tray) <sup>`FOSS`</sup>
 - `FDM` [Bluetooth Battery Level](https://apps.microsoft.com/store/detail/bluetooth-battery-level/9P2RFZSB04G2)
